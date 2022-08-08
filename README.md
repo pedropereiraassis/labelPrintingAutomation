@@ -1,7 +1,4 @@
-# automacaoImpressaoEtiqueta
-Script para automação do processo de impressão de etiquetas.
+# labelPrintingAutomation
+Script for automate label printing process.
 
-Esse projeto foi criado para automatizar uma atividade de impressão de etiquetas no local onde trabalho. A atividade consistia em pegar itens, lotes e quantidades e 
-inserir em um aplicativo web, onde nesse aplicativo era feita a impressão da etiqueta com as informações. Esse processo é feito as vezes para mais de 30 lotes e não agrega valor.
-Sendo assim, alinhei conhecimentos que obti até o momento com python, utilizando selenium e pyautogui para automatizar os comandos de navegador e comandos de teclado/mouse, 
-e utilizei também openpyxl para pegar as informações de uma planilha excel.
+This project was made to automate the label printing activity in a company. The activity consisted in taking batches and quantitities and insert on a web platform to print labels. This process is done for around 30 batches per day and doesn't aggregate any value. So I used python, selenium and pyautogui to automate the browser commands and openpyxl to get the data from an excel sheet.
